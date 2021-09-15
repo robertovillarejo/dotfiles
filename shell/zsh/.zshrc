@@ -29,3 +29,8 @@ export PATH="/opt/homebrew/opt/node@14/bin:$PATH"
 # SDKMAN
 export SDKMAN_DIR=/Users/roberto/.sdkman
 [[ -s "${SDKMAN_DIR}/bin/sdkman-init.sh" ]] && source "${SDKMAN_DIR}/bin/sdkman-init.sh"
+
+test -e "${HOME}/.iterm2_shell_integration.zsh" && source "${HOME}/.iterm2_shell_integration.zsh"
+
+# Plugins
+plugins=(git)
