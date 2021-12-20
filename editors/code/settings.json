@@ -8,9 +8,8 @@
         "**/.factorypath": true
     },
     "editor.accessibilitySupport": "off",
-    "window.zoomLevel": 2,
     "[java]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
+        "editor.defaultFormatter": "redhat.java"
     },
     "[vue]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
@@ -32,5 +31,7 @@
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
     "vetur.experimental.templateInterpolationService": true,
-    "diffEditor.ignoreTrimWhitespace": false
+    "java.debug.settings.showHex": true,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "window.zoomLevel": 1
 }

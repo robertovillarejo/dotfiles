@@ -34,3 +34,6 @@ test -e "${HOME}/.iterm2_shell_integration.zsh" && source "${HOME}/.iterm2_shell
 
 # Plugins
 plugins=(git)
+
+# Alias
+alias mci="mvn clean install"

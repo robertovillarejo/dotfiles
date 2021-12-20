@@ -1,3 +1,5 @@
 [user]
 	name = Roberto Villarejo Martínez
 	email = roberto.villarejo@comimsa.com
+[core]
+	excludesfile = /Users/roberto/.gitignore_global
